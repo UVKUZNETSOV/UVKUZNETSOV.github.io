@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.57783749.css",
+    "main.js": "/static/js/main.592394d4.js",
+    "static/media/seafood.jpg": "/static/media/seafood.13d7a984b32cd6391185.jpg",
+    "static/media/cyberpunk.jpg": "/static/media/cyberpunk.a7e1175208903ce1e228.jpg",
+    "static/media/solar.jpg": "/static/media/solar.17db98df0328b78b9694.jpg",
+    "static/media/aperture.jpg": "/static/media/aperture.b3b7c95285ecc63daef1.jpg",
+    "static/media/evarugs.jpg": "/static/media/evarugs.9eb4b2d20e40dc888578.jpg",
+    "static/media/iphone.jpg": "/static/media/iphone.6d93c925a69f441d38df.jpg",
+    "static/media/me.jpeg": "/static/media/me.fdd2b51ed93aa0ea080b.jpeg",
+    "static/media/home-icon.svg": "/static/media/home-icon.35d6d35b9e0a7c2266acd2a2254b0a72.svg",
+    "index.html": "/index.html",
+    "static/media/arrow-1.svg": "/static/media/arrow-1.bd7e6a2a3ad8227bb86628f2c2966b43.svg",
+    "static/media/mobile.svg": "/static/media/mobile.b6a796e62a57afb669002e45862285cd.svg",
+    "static/media/arrow-2.svg": "/static/media/arrow-2.b6cc4dfd1de35884b6639b6fb822c400.svg",
+    "static/media/desktop.svg": "/static/media/desktop.89b17d45320958ca9c8d4a945d9847c6.svg",
+    "static/media/tablet.svg": "/static/media/tablet.7b747b4ae2276daec41f83f985b70274.svg",
+    "main.57783749.css.map": "/static/css/main.57783749.css.map",
+    "main.592394d4.js.map": "/static/js/main.592394d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57783749.css",
+    "static/js/main.592394d4.js"
+  ]
+}
