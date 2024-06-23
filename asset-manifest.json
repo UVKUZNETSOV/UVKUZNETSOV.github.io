@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.57783749.css",
-    "main.js": "/static/js/main.592394d4.js",
+    "main.css": "/static/css/main.6c67c0fa.css",
+    "main.js": "/static/js/main.ea931bcf.js",
     "static/media/seafood.jpg": "/static/media/seafood.13d7a984b32cd6391185.jpg",
     "static/media/cyberpunk.jpg": "/static/media/cyberpunk.a7e1175208903ce1e228.jpg",
     "static/media/solar.jpg": "/static/media/solar.17db98df0328b78b9694.jpg",
@@ -16,11 +16,11 @@
     "static/media/arrow-2.svg": "/static/media/arrow-2.b6cc4dfd1de35884b6639b6fb822c400.svg",
     "static/media/desktop.svg": "/static/media/desktop.89b17d45320958ca9c8d4a945d9847c6.svg",
     "static/media/tablet.svg": "/static/media/tablet.7b747b4ae2276daec41f83f985b70274.svg",
-    "main.57783749.css.map": "/static/css/main.57783749.css.map",
-    "main.592394d4.js.map": "/static/js/main.592394d4.js.map"
+    "main.6c67c0fa.css.map": "/static/css/main.6c67c0fa.css.map",
+    "main.ea931bcf.js.map": "/static/js/main.ea931bcf.js.map"
   },
   "entrypoints": [
-    "static/css/main.57783749.css",
-    "static/js/main.592394d4.js"
+    "static/css/main.6c67c0fa.css",
+    "static/js/main.ea931bcf.js"
   ]
 }
